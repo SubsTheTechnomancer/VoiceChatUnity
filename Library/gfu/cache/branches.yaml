@@ -13,13 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-01-26T18:50:06.104+05:30
-  initializedAtString: 2020-01-26T18:30:23.318+05:30
+  lastUpdatedAtString: 2020-01-26T19:29:58.811+05:30
+  initializedAtString: 2020-01-26T19:16:06.112+05:30
   localBranches: []
-  remoteBranches: []
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/SubsTheTechnomancer/Voice-Chat
+    url: https://github.com/SubsTheTechnomancer/Fake-Pictochat.git
     login: 
     user: 
     host: 
@@ -29,12 +31,21 @@ MonoBehaviour:
     keys: []
     values: []
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+    subKeyValues:
+    - Values:
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/SubsTheTechnomancer/Fake-Pictochat.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/SubsTheTechnomancer/Voice-Chat
+      url: https://github.com/SubsTheTechnomancer/Fake-Pictochat.git
