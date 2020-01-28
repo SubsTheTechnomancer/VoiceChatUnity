@@ -13,9 +13,1395 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-01-26T19:30:02.212+05:30
+  lastUpdatedAtString: 2020-01-26T20:20:46.547+05:30
   initializedAtString: 2020-01-26T19:14:34.851+05:30
   log:
+  - commitID: 2a47fd70fe606a7978b216dd5f8c61047a038151
+    mergeA: 
+    mergeB: 
+    authorName: SubsTheTechnomancer
+    authorEmail: 54163143+SubsTheTechnomancer@users.noreply.github.com
+    commitEmail: 54163143+SubsTheTechnomancer@users.noreply.github.com
+    commitName: SubsTheTechnomancer
+    summary: Complete
+    description: 
+    timeString: 2020-01-26T20:20:35.000+05:30
+    commitTimeString: 2020-01-26T20:20:35.000+05:30
+    changes:
+    - path: Assets\Prefabs\Players\Player.prefab
+      fullPath: C:\Fake Pictochat\Assets\Prefabs\Players\Player.prefab
+      projectPath: Assets\Prefabs\Players\Player.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Players\Player.prefab.meta
+      fullPath: C:\Fake Pictochat\Assets\Prefabs\Players\Player.prefab.meta
+      projectPath: Assets\Prefabs\Players\Player.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\VoiceChat.unity
+      fullPath: C:\Fake Pictochat\Assets\Scenes\VoiceChat.unity
+      projectPath: Assets\Scenes\VoiceChat.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\RecoderShirr.cs
+      fullPath: C:\Fake Pictochat\Assets\Scripts\RecoderShirr.cs
+      projectPath: Assets\Scripts\RecoderShirr.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Fake Pictochat\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\LastBuild.buildreport
+      fullPath: C:\Fake Pictochat\Library\LastBuild.buildreport
+      projectPath: Library\LastBuild.buildreport
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\PhotonChat.dll
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\Managed\PhotonChat.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\PhotonChat.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\PhotonRealtime.dll
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\Managed\PhotonRealtime.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\PhotonRealtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\PhotonUnityNetworking.Demos.dll
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\Managed\PhotonUnityNetworking.Demos.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\PhotonUnityNetworking.Demos.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\PhotonUnityNetworking.Utilities.dll
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\Managed\PhotonUnityNetworking.Utilities.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\PhotonUnityNetworking.Utilities.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\PhotonUnityNetworking.dll
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\Managed\PhotonUnityNetworking.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\PhotonUnityNetworking.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\PhotonVoice.API.dll
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\Managed\PhotonVoice.API.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\PhotonVoice.API.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\PhotonVoice.PUN.dll
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\Managed\PhotonVoice.PUN.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\PhotonVoice.PUN.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\PhotonVoice.dll
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\Managed\PhotonVoice.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\PhotonVoice.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\PhotonWebSocket.dll
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\Managed\PhotonWebSocket.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\PhotonWebSocket.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\Unity.Timeline.dll
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\Managed\Unity.Timeline.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\level1
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\level1
+      projectPath: Library\PlayerDataCache\Win64\Data\level1
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
+      fullPath: C:\Fake Pictochat\Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
+      projectPath: Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PhotonChat.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PhotonChat.dll
+      projectPath: Library\ScriptAssemblies\PhotonChat.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PhotonRealtime.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PhotonRealtime.dll
+      projectPath: Library\ScriptAssemblies\PhotonRealtime.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
+      projectPath: Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
+      projectPath: Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
+      projectPath: Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
+      projectPath: Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
+      projectPath: Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PhotonUnityNetworking.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PhotonUnityNetworking.dll
+      projectPath: Library\ScriptAssemblies\PhotonUnityNetworking.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PhotonVoice.API.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PhotonVoice.API.dll
+      projectPath: Library\ScriptAssemblies\PhotonVoice.API.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PhotonVoice.Editor.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PhotonVoice.Editor.dll
+      projectPath: Library\ScriptAssemblies\PhotonVoice.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PhotonVoice.PUN.Editor.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PhotonVoice.PUN.Editor.dll
+      projectPath: Library\ScriptAssemblies\PhotonVoice.PUN.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PhotonVoice.PUN.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PhotonVoice.PUN.dll
+      projectPath: Library\ScriptAssemblies\PhotonVoice.PUN.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PhotonVoice.Utilities.Editor.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PhotonVoice.Utilities.Editor.dll
+      projectPath: Library\ScriptAssemblies\PhotonVoice.Utilities.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PhotonVoice.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PhotonVoice.dll
+      projectPath: Library\ScriptAssemblies\PhotonVoice.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PhotonWebSocket.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PhotonWebSocket.dll
+      projectPath: Library\ScriptAssemblies\PhotonWebSocket.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
+      projectPath: Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
+      projectPath: Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Fake Pictochat\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\ffdcb3-710f229697f06634cb.json
+      fullPath: C:\Fake Pictochat\Library\StateCache\Hierarchy\ffdcb3-710f229697f06634cb.json
+      projectPath: Library\StateCache\Hierarchy\ffdcb3-710f229697f06634cb.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\ffdcb3-e5171f72421770240b.json
+      fullPath: C:\Fake Pictochat\Library\StateCache\Hierarchy\ffdcb3-e5171f72421770240b.json
+      projectPath: Library\StateCache\Hierarchy\ffdcb3-e5171f72421770240b.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\ffdcb3-mainStage.json
+      fullPath: C:\Fake Pictochat\Library\StateCache\Hierarchy\ffdcb3-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\ffdcb3-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\04415c-710f229697f06634cb.json
+      fullPath: C:\Fake Pictochat\Library\StateCache\SceneView\04415c-710f229697f06634cb.json
+      projectPath: Library\StateCache\SceneView\04415c-710f229697f06634cb.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\04415c-e5171f72421770240b.json
+      fullPath: C:\Fake Pictochat\Library\StateCache\SceneView\04415c-e5171f72421770240b.json
+      projectPath: Library\StateCache\SceneView\04415c-e5171f72421770240b.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Fake Pictochat\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Fake Pictochat\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Fake Pictochat\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Fake Pictochat\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Fake Pictochat\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Fake Pictochat\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Fake Pictochat\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\71\710f229697f06634cbda8c2f5adccd8f
+      fullPath: C:\Fake Pictochat\Library\metadata\71\710f229697f06634cbda8c2f5adccd8f
+      projectPath: Library\metadata\71\710f229697f06634cbda8c2f5adccd8f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\71\710f229697f06634cbda8c2f5adccd8f.info
+      fullPath: C:\Fake Pictochat\Library\metadata\71\710f229697f06634cbda8c2f5adccd8f.info
+      projectPath: Library\metadata\71\710f229697f06634cbda8c2f5adccd8f.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\9e\9e73a3a0b1b4e014e8a0b3556fc4f389
+      fullPath: C:\Fake Pictochat\Library\metadata\9e\9e73a3a0b1b4e014e8a0b3556fc4f389
+      projectPath: Library\metadata\9e\9e73a3a0b1b4e014e8a0b3556fc4f389
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Fake Pictochat\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Fake Pictochat\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Fake Pictochat\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: C:\Fake Pictochat\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: C:\Fake Pictochat\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: C:\Fake Pictochat\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: C:\Fake Pictochat\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-02e5fb54ab91190478997d98028718d9
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-02e5fb54ab91190478997d98028718d9
+      projectPath: Temp\UnityTempFile-02e5fb54ab91190478997d98028718d9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-031e2aa0d1772b14b944929f157823df
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-031e2aa0d1772b14b944929f157823df
+      projectPath: Temp\UnityTempFile-031e2aa0d1772b14b944929f157823df
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-049d1cef55223244e8fdbd38124df18d
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-049d1cef55223244e8fdbd38124df18d
+      projectPath: Temp\UnityTempFile-049d1cef55223244e8fdbd38124df18d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-05ab7d545fbf4ce49ba2b3aa4afda1a6
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-05ab7d545fbf4ce49ba2b3aa4afda1a6
+      projectPath: Temp\UnityTempFile-05ab7d545fbf4ce49ba2b3aa4afda1a6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0619222b81edf034593c373a74e7eefb
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-0619222b81edf034593c373a74e7eefb
+      projectPath: Temp\UnityTempFile-0619222b81edf034593c373a74e7eefb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-08f982f0cfb35524aabc069e73d7a70e
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-08f982f0cfb35524aabc069e73d7a70e
+      projectPath: Temp\UnityTempFile-08f982f0cfb35524aabc069e73d7a70e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0b908a9664022df419166bb6e785efc7
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-0b908a9664022df419166bb6e785efc7
+      projectPath: Temp\UnityTempFile-0b908a9664022df419166bb6e785efc7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0b99be9b1043ae94bb1a09792f35c2a5
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-0b99be9b1043ae94bb1a09792f35c2a5
+      projectPath: Temp\UnityTempFile-0b99be9b1043ae94bb1a09792f35c2a5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0bde835d87c6541408f85e4558dfe7c3
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-0bde835d87c6541408f85e4558dfe7c3
+      projectPath: Temp\UnityTempFile-0bde835d87c6541408f85e4558dfe7c3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0ed105c5d2bb28842a6e9cd6ac8b07de
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-0ed105c5d2bb28842a6e9cd6ac8b07de
+      projectPath: Temp\UnityTempFile-0ed105c5d2bb28842a6e9cd6ac8b07de
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0edc02a96578d234f9168ed622535658
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-0edc02a96578d234f9168ed622535658
+      projectPath: Temp\UnityTempFile-0edc02a96578d234f9168ed622535658
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0f59e84dd0a17d143bcf464c73ac7e13
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-0f59e84dd0a17d143bcf464c73ac7e13
+      projectPath: Temp\UnityTempFile-0f59e84dd0a17d143bcf464c73ac7e13
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-0fd3657e70970f74a9637ba9f43d86c0
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-0fd3657e70970f74a9637ba9f43d86c0
+      projectPath: Temp\UnityTempFile-0fd3657e70970f74a9637ba9f43d86c0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-11bdc70310ec06e4aab929974564e168
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-11bdc70310ec06e4aab929974564e168
+      projectPath: Temp\UnityTempFile-11bdc70310ec06e4aab929974564e168
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-121d7019e513bff4dac1c1520e1b953b
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-121d7019e513bff4dac1c1520e1b953b
+      projectPath: Temp\UnityTempFile-121d7019e513bff4dac1c1520e1b953b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-131d253f6d5efed4a8056aa7de5b7c3f
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-131d253f6d5efed4a8056aa7de5b7c3f
+      projectPath: Temp\UnityTempFile-131d253f6d5efed4a8056aa7de5b7c3f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-13af846b3bb5d9f4082e666254622672
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-13af846b3bb5d9f4082e666254622672
+      projectPath: Temp\UnityTempFile-13af846b3bb5d9f4082e666254622672
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-150f7fb7993a5a74ebe1a926de4b2559
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-150f7fb7993a5a74ebe1a926de4b2559
+      projectPath: Temp\UnityTempFile-150f7fb7993a5a74ebe1a926de4b2559
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-16456ee6f70387b42b75cf7e72bac946
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-16456ee6f70387b42b75cf7e72bac946
+      projectPath: Temp\UnityTempFile-16456ee6f70387b42b75cf7e72bac946
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-1adaa37d89ab43641af9ee2894ac3c6d
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-1adaa37d89ab43641af9ee2894ac3c6d
+      projectPath: Temp\UnityTempFile-1adaa37d89ab43641af9ee2894ac3c6d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-1b3fdbe8b7ed6d44dbc6ebc2da595242
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-1b3fdbe8b7ed6d44dbc6ebc2da595242
+      projectPath: Temp\UnityTempFile-1b3fdbe8b7ed6d44dbc6ebc2da595242
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-1eedc99c10ac67143a094b7716893db2
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-1eedc99c10ac67143a094b7716893db2
+      projectPath: Temp\UnityTempFile-1eedc99c10ac67143a094b7716893db2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-1f7e6e27392e3a64d9e871927ea53d7d
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-1f7e6e27392e3a64d9e871927ea53d7d
+      projectPath: Temp\UnityTempFile-1f7e6e27392e3a64d9e871927ea53d7d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-1fc6ca22e9315634e94582c090ef4cb9
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-1fc6ca22e9315634e94582c090ef4cb9
+      projectPath: Temp\UnityTempFile-1fc6ca22e9315634e94582c090ef4cb9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-24accbbc264bcb04d82454898ad637a6
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-24accbbc264bcb04d82454898ad637a6
+      projectPath: Temp\UnityTempFile-24accbbc264bcb04d82454898ad637a6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-24d0e3cd393406241be0b15655ece1fc
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-24d0e3cd393406241be0b15655ece1fc
+      projectPath: Temp\UnityTempFile-24d0e3cd393406241be0b15655ece1fc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-281590e32b3a07b4aa051763a56c7134
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-281590e32b3a07b4aa051763a56c7134
+      projectPath: Temp\UnityTempFile-281590e32b3a07b4aa051763a56c7134
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-29c7a519a993d754fa7ae86e4842f51b
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-29c7a519a993d754fa7ae86e4842f51b
+      projectPath: Temp\UnityTempFile-29c7a519a993d754fa7ae86e4842f51b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-2a20b7570b3e234488e9cb3ba00bf229
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-2a20b7570b3e234488e9cb3ba00bf229
+      projectPath: Temp\UnityTempFile-2a20b7570b3e234488e9cb3ba00bf229
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-2c403bfd6c4e4ec4cb2bf5423507a3a7
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-2c403bfd6c4e4ec4cb2bf5423507a3a7
+      projectPath: Temp\UnityTempFile-2c403bfd6c4e4ec4cb2bf5423507a3a7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-2de67f8e5d675094e99fe7a5742b7cf8
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-2de67f8e5d675094e99fe7a5742b7cf8
+      projectPath: Temp\UnityTempFile-2de67f8e5d675094e99fe7a5742b7cf8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-3072987ff4a2a494e9af76bb8ccbc88f
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-3072987ff4a2a494e9af76bb8ccbc88f
+      projectPath: Temp\UnityTempFile-3072987ff4a2a494e9af76bb8ccbc88f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-3187271ddb257f542b5fad71bef0f5c4
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-3187271ddb257f542b5fad71bef0f5c4
+      projectPath: Temp\UnityTempFile-3187271ddb257f542b5fad71bef0f5c4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-352e7e3a9db8c2c42a2956b2c7b8b9f3
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-352e7e3a9db8c2c42a2956b2c7b8b9f3
+      projectPath: Temp\UnityTempFile-352e7e3a9db8c2c42a2956b2c7b8b9f3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-357a7f78c67474943ae5f30acc84bb6c
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-357a7f78c67474943ae5f30acc84bb6c
+      projectPath: Temp\UnityTempFile-357a7f78c67474943ae5f30acc84bb6c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-36ea46fdbf82dd649bfe5d9b62d0a3e3
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-36ea46fdbf82dd649bfe5d9b62d0a3e3
+      projectPath: Temp\UnityTempFile-36ea46fdbf82dd649bfe5d9b62d0a3e3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-3c4544053711c5b4ea6db38f35119c71
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-3c4544053711c5b4ea6db38f35119c71
+      projectPath: Temp\UnityTempFile-3c4544053711c5b4ea6db38f35119c71
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-3f5bb3df306bed14cb0945782d905427
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-3f5bb3df306bed14cb0945782d905427
+      projectPath: Temp\UnityTempFile-3f5bb3df306bed14cb0945782d905427
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-408390b0cfbc82542b832a8dc6e29eb2
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-408390b0cfbc82542b832a8dc6e29eb2
+      projectPath: Temp\UnityTempFile-408390b0cfbc82542b832a8dc6e29eb2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-4313d38105abf5149a6802fcef43125b
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-4313d38105abf5149a6802fcef43125b
+      projectPath: Temp\UnityTempFile-4313d38105abf5149a6802fcef43125b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-4570da349211efe47b55668719ecb3ca
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-4570da349211efe47b55668719ecb3ca
+      projectPath: Temp\UnityTempFile-4570da349211efe47b55668719ecb3ca
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-468be3a55051a134b8e5a08c46b875af
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-468be3a55051a134b8e5a08c46b875af
+      projectPath: Temp\UnityTempFile-468be3a55051a134b8e5a08c46b875af
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-495bfb0f8e394004c8eb0b5cd142857a
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-495bfb0f8e394004c8eb0b5cd142857a
+      projectPath: Temp\UnityTempFile-495bfb0f8e394004c8eb0b5cd142857a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-49add2af8a774bb498a51e7613838171
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-49add2af8a774bb498a51e7613838171
+      projectPath: Temp\UnityTempFile-49add2af8a774bb498a51e7613838171
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-4acea3a34456770468f404177bde3826
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-4acea3a34456770468f404177bde3826
+      projectPath: Temp\UnityTempFile-4acea3a34456770468f404177bde3826
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-51ca86585b753a64cbac87474e786c51
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-51ca86585b753a64cbac87474e786c51
+      projectPath: Temp\UnityTempFile-51ca86585b753a64cbac87474e786c51
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-53477efbf0550884e84aac60b395d9a3
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-53477efbf0550884e84aac60b395d9a3
+      projectPath: Temp\UnityTempFile-53477efbf0550884e84aac60b395d9a3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-539c07ca7e4dfb94a8b6284bffaa5bc9
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-539c07ca7e4dfb94a8b6284bffaa5bc9
+      projectPath: Temp\UnityTempFile-539c07ca7e4dfb94a8b6284bffaa5bc9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-53f253498794eaf448c050a553554204
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-53f253498794eaf448c050a553554204
+      projectPath: Temp\UnityTempFile-53f253498794eaf448c050a553554204
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-54c4ff43062357345b38e00888faffa7
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-54c4ff43062357345b38e00888faffa7
+      projectPath: Temp\UnityTempFile-54c4ff43062357345b38e00888faffa7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-5765f458ec40d764db624feb2aef758f
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-5765f458ec40d764db624feb2aef758f
+      projectPath: Temp\UnityTempFile-5765f458ec40d764db624feb2aef758f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-583db83e3d1d6b04b8a1aebd4a8a4597
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-583db83e3d1d6b04b8a1aebd4a8a4597
+      projectPath: Temp\UnityTempFile-583db83e3d1d6b04b8a1aebd4a8a4597
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-593cc95045f546047bec9b690678f205
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-593cc95045f546047bec9b690678f205
+      projectPath: Temp\UnityTempFile-593cc95045f546047bec9b690678f205
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-5c8e8c5a0bcdc1d48b81f95925c32c25
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-5c8e8c5a0bcdc1d48b81f95925c32c25
+      projectPath: Temp\UnityTempFile-5c8e8c5a0bcdc1d48b81f95925c32c25
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-5c9181c036fe68346a2c31801de8d51e
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-5c9181c036fe68346a2c31801de8d51e
+      projectPath: Temp\UnityTempFile-5c9181c036fe68346a2c31801de8d51e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-5d73622500095664e8518ceeef3d8ab6
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-5d73622500095664e8518ceeef3d8ab6
+      projectPath: Temp\UnityTempFile-5d73622500095664e8518ceeef3d8ab6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-61542890f8893cb44967a6b4cdcf129b
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-61542890f8893cb44967a6b4cdcf129b
+      projectPath: Temp\UnityTempFile-61542890f8893cb44967a6b4cdcf129b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-61b3f02cdee3b234d9c366b22c96c5d8
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-61b3f02cdee3b234d9c366b22c96c5d8
+      projectPath: Temp\UnityTempFile-61b3f02cdee3b234d9c366b22c96c5d8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-62dd961f615e42d4db8371b301cbf4c2
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-62dd961f615e42d4db8371b301cbf4c2
+      projectPath: Temp\UnityTempFile-62dd961f615e42d4db8371b301cbf4c2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-68c530adf1b444b4f954450eb1fd06bf
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-68c530adf1b444b4f954450eb1fd06bf
+      projectPath: Temp\UnityTempFile-68c530adf1b444b4f954450eb1fd06bf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-697fec632bbd4424faa70aae88e6cf3c
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-697fec632bbd4424faa70aae88e6cf3c
+      projectPath: Temp\UnityTempFile-697fec632bbd4424faa70aae88e6cf3c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-6a20850d211631d44944c28ef28dfcad
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-6a20850d211631d44944c28ef28dfcad
+      projectPath: Temp\UnityTempFile-6a20850d211631d44944c28ef28dfcad
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-6b6c98a635850a444a696e76385d8b29
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-6b6c98a635850a444a696e76385d8b29
+      projectPath: Temp\UnityTempFile-6b6c98a635850a444a696e76385d8b29
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-72e649c18af59c64f8a4ea2958910047
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-72e649c18af59c64f8a4ea2958910047
+      projectPath: Temp\UnityTempFile-72e649c18af59c64f8a4ea2958910047
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-733ec817d929fa843b14ff9522238e79
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-733ec817d929fa843b14ff9522238e79
+      projectPath: Temp\UnityTempFile-733ec817d929fa843b14ff9522238e79
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-7488335d6d968ab4c957a34197559fda
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-7488335d6d968ab4c957a34197559fda
+      projectPath: Temp\UnityTempFile-7488335d6d968ab4c957a34197559fda
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-75c60670bf9794d4ba98cc684cddf64c
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-75c60670bf9794d4ba98cc684cddf64c
+      projectPath: Temp\UnityTempFile-75c60670bf9794d4ba98cc684cddf64c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-7736d112f0601174a9a11a30866e0fcf
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-7736d112f0601174a9a11a30866e0fcf
+      projectPath: Temp\UnityTempFile-7736d112f0601174a9a11a30866e0fcf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-7c11e02218b205846b674297a31ab437
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-7c11e02218b205846b674297a31ab437
+      projectPath: Temp\UnityTempFile-7c11e02218b205846b674297a31ab437
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-8084f992b3eac97458da002bf382f395
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-8084f992b3eac97458da002bf382f395
+      projectPath: Temp\UnityTempFile-8084f992b3eac97458da002bf382f395
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-82b773c83cfaa3f438843e3b5dc65387
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-82b773c83cfaa3f438843e3b5dc65387
+      projectPath: Temp\UnityTempFile-82b773c83cfaa3f438843e3b5dc65387
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-84a91a68727461343b65d5af355333e7
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-84a91a68727461343b65d5af355333e7
+      projectPath: Temp\UnityTempFile-84a91a68727461343b65d5af355333e7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-8697aaa4c91041a46851f75132cbbc90
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-8697aaa4c91041a46851f75132cbbc90
+      projectPath: Temp\UnityTempFile-8697aaa4c91041a46851f75132cbbc90
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-8b9f279781273724d88434dad3895b5f
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-8b9f279781273724d88434dad3895b5f
+      projectPath: Temp\UnityTempFile-8b9f279781273724d88434dad3895b5f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-8c92108ccba3b494395683b2f15243f1
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-8c92108ccba3b494395683b2f15243f1
+      projectPath: Temp\UnityTempFile-8c92108ccba3b494395683b2f15243f1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-93814bc84ce995f45a5f7a12ee75615c
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-93814bc84ce995f45a5f7a12ee75615c
+      projectPath: Temp\UnityTempFile-93814bc84ce995f45a5f7a12ee75615c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-94172a9d9e6bd7d47b90d5108cfcf118
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-94172a9d9e6bd7d47b90d5108cfcf118
+      projectPath: Temp\UnityTempFile-94172a9d9e6bd7d47b90d5108cfcf118
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-95bbf60e14b1fa342a97038ad5ee8cb3
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-95bbf60e14b1fa342a97038ad5ee8cb3
+      projectPath: Temp\UnityTempFile-95bbf60e14b1fa342a97038ad5ee8cb3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-96d8807a72a2cb7439c27ddd85b8ff25
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-96d8807a72a2cb7439c27ddd85b8ff25
+      projectPath: Temp\UnityTempFile-96d8807a72a2cb7439c27ddd85b8ff25
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-982b6442f3a629d459f198505c488439
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-982b6442f3a629d459f198505c488439
+      projectPath: Temp\UnityTempFile-982b6442f3a629d459f198505c488439
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-989256b96880814498adc303437bf743
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-989256b96880814498adc303437bf743
+      projectPath: Temp\UnityTempFile-989256b96880814498adc303437bf743
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-99e5eee1417fc72468ad060815b215f9
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-99e5eee1417fc72468ad060815b215f9
+      projectPath: Temp\UnityTempFile-99e5eee1417fc72468ad060815b215f9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-9a4ae2ff7eecfec4c9809b147cb4d594
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-9a4ae2ff7eecfec4c9809b147cb4d594
+      projectPath: Temp\UnityTempFile-9a4ae2ff7eecfec4c9809b147cb4d594
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-9c8907e5ef893b640a14634808704298
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-9c8907e5ef893b640a14634808704298
+      projectPath: Temp\UnityTempFile-9c8907e5ef893b640a14634808704298
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a32457be03166a24198f5e4227a47fe9
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-a32457be03166a24198f5e4227a47fe9
+      projectPath: Temp\UnityTempFile-a32457be03166a24198f5e4227a47fe9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a525612bfc6a0ab408d9c2855769f4ac
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-a525612bfc6a0ab408d9c2855769f4ac
+      projectPath: Temp\UnityTempFile-a525612bfc6a0ab408d9c2855769f4ac
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a54b6fbd240a7544d86318bc52bb6988
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-a54b6fbd240a7544d86318bc52bb6988
+      projectPath: Temp\UnityTempFile-a54b6fbd240a7544d86318bc52bb6988
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a58df1dd135697d42a214b41bc570775
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-a58df1dd135697d42a214b41bc570775
+      projectPath: Temp\UnityTempFile-a58df1dd135697d42a214b41bc570775
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a897d87db5d87044e8fee2b422a199a8
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-a897d87db5d87044e8fee2b422a199a8
+      projectPath: Temp\UnityTempFile-a897d87db5d87044e8fee2b422a199a8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-a96750e6801dea94485feda36e2ac0b7
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-a96750e6801dea94485feda36e2ac0b7
+      projectPath: Temp\UnityTempFile-a96750e6801dea94485feda36e2ac0b7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-aa748fb105ac8834aa59ef248e985646
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-aa748fb105ac8834aa59ef248e985646
+      projectPath: Temp\UnityTempFile-aa748fb105ac8834aa59ef248e985646
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-adf73429622cd524ea099af4597a1b3f
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-adf73429622cd524ea099af4597a1b3f
+      projectPath: Temp\UnityTempFile-adf73429622cd524ea099af4597a1b3f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-ae2078050ba99424d9d2f82f252c2fa3
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-ae2078050ba99424d9d2f82f252c2fa3
+      projectPath: Temp\UnityTempFile-ae2078050ba99424d9d2f82f252c2fa3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-af7e37c4111cff4449ac3ef99e2e3c52
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-af7e37c4111cff4449ac3ef99e2e3c52
+      projectPath: Temp\UnityTempFile-af7e37c4111cff4449ac3ef99e2e3c52
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-af91d8b9839dc9446aa3929c5c1a5bfb
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-af91d8b9839dc9446aa3929c5c1a5bfb
+      projectPath: Temp\UnityTempFile-af91d8b9839dc9446aa3929c5c1a5bfb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-b3d3b1bdec6189845ad27a61a1d6306c
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-b3d3b1bdec6189845ad27a61a1d6306c
+      projectPath: Temp\UnityTempFile-b3d3b1bdec6189845ad27a61a1d6306c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-b4dcc9b3f62e05549ba76b754b241029
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-b4dcc9b3f62e05549ba76b754b241029
+      projectPath: Temp\UnityTempFile-b4dcc9b3f62e05549ba76b754b241029
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-b58919247686fe242a01e22e096888c8
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-b58919247686fe242a01e22e096888c8
+      projectPath: Temp\UnityTempFile-b58919247686fe242a01e22e096888c8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-b6f658bd300d0fd4ab6e85ca701187f5
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-b6f658bd300d0fd4ab6e85ca701187f5
+      projectPath: Temp\UnityTempFile-b6f658bd300d0fd4ab6e85ca701187f5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-b783189cb4dd043499ee594b5c71663d
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-b783189cb4dd043499ee594b5c71663d
+      projectPath: Temp\UnityTempFile-b783189cb4dd043499ee594b5c71663d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-b7f2715e84b81b446878a00ecbc9fbcb
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-b7f2715e84b81b446878a00ecbc9fbcb
+      projectPath: Temp\UnityTempFile-b7f2715e84b81b446878a00ecbc9fbcb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-bd7de26708580a040a479e554864d252
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-bd7de26708580a040a479e554864d252
+      projectPath: Temp\UnityTempFile-bd7de26708580a040a479e554864d252
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-bd83872c4daaf8640ab45a5b36fa378b
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-bd83872c4daaf8640ab45a5b36fa378b
+      projectPath: Temp\UnityTempFile-bd83872c4daaf8640ab45a5b36fa378b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-c5994d0d642c3c448a8c8b107dbea132
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-c5994d0d642c3c448a8c8b107dbea132
+      projectPath: Temp\UnityTempFile-c5994d0d642c3c448a8c8b107dbea132
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-c64854a0dcc3efc46ac027b3211f2239
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-c64854a0dcc3efc46ac027b3211f2239
+      projectPath: Temp\UnityTempFile-c64854a0dcc3efc46ac027b3211f2239
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-c7f2e54a2ef4c4247a312bbe894fa82a
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-c7f2e54a2ef4c4247a312bbe894fa82a
+      projectPath: Temp\UnityTempFile-c7f2e54a2ef4c4247a312bbe894fa82a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-cae858b2a23a3a54baa1d9b53d3db325
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-cae858b2a23a3a54baa1d9b53d3db325
+      projectPath: Temp\UnityTempFile-cae858b2a23a3a54baa1d9b53d3db325
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-cb3cea9b396334b4795b3547297fd8af
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-cb3cea9b396334b4795b3547297fd8af
+      projectPath: Temp\UnityTempFile-cb3cea9b396334b4795b3547297fd8af
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-cc317f0a9a9854646a79ad72614aa28f
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-cc317f0a9a9854646a79ad72614aa28f
+      projectPath: Temp\UnityTempFile-cc317f0a9a9854646a79ad72614aa28f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-ccdc2192a76df9841beae84e880441c0
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-ccdc2192a76df9841beae84e880441c0
+      projectPath: Temp\UnityTempFile-ccdc2192a76df9841beae84e880441c0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-cd84d46204d8e0846a45af8caa71a96d
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-cd84d46204d8e0846a45af8caa71a96d
+      projectPath: Temp\UnityTempFile-cd84d46204d8e0846a45af8caa71a96d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-cdb36be62b811c14088ed5dd4aa1c14e
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-cdb36be62b811c14088ed5dd4aa1c14e
+      projectPath: Temp\UnityTempFile-cdb36be62b811c14088ed5dd4aa1c14e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-cf77153128a11df4796c6aaafde7e33c
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-cf77153128a11df4796c6aaafde7e33c
+      projectPath: Temp\UnityTempFile-cf77153128a11df4796c6aaafde7e33c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-cffc2628c57a74545b602502e82accb1
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-cffc2628c57a74545b602502e82accb1
+      projectPath: Temp\UnityTempFile-cffc2628c57a74545b602502e82accb1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-d16b8100f1cfa3649b551be7b4810b34
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-d16b8100f1cfa3649b551be7b4810b34
+      projectPath: Temp\UnityTempFile-d16b8100f1cfa3649b551be7b4810b34
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-d177729e3744db44c817f6554a148eed
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-d177729e3744db44c817f6554a148eed
+      projectPath: Temp\UnityTempFile-d177729e3744db44c817f6554a148eed
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-d2bec70b93a04454fafb4990dd03e76d
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-d2bec70b93a04454fafb4990dd03e76d
+      projectPath: Temp\UnityTempFile-d2bec70b93a04454fafb4990dd03e76d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-d38954f094b067b46bed57eb216f3389
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-d38954f094b067b46bed57eb216f3389
+      projectPath: Temp\UnityTempFile-d38954f094b067b46bed57eb216f3389
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-d70fa9b4220efe84a8bb840c434dee7b
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-d70fa9b4220efe84a8bb840c434dee7b
+      projectPath: Temp\UnityTempFile-d70fa9b4220efe84a8bb840c434dee7b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-d83ac4947f7b0e04c925e6e325c26a74
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-d83ac4947f7b0e04c925e6e325c26a74
+      projectPath: Temp\UnityTempFile-d83ac4947f7b0e04c925e6e325c26a74
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-d84ad54ba4c176340b6d50ce737c6b96
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-d84ad54ba4c176340b6d50ce737c6b96
+      projectPath: Temp\UnityTempFile-d84ad54ba4c176340b6d50ce737c6b96
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-d9f68e8bf9d7fc145a3389cae7b2d5db
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-d9f68e8bf9d7fc145a3389cae7b2d5db
+      projectPath: Temp\UnityTempFile-d9f68e8bf9d7fc145a3389cae7b2d5db
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-da3d7aa259517424bae8c03e6a4bf36d
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-da3d7aa259517424bae8c03e6a4bf36d
+      projectPath: Temp\UnityTempFile-da3d7aa259517424bae8c03e6a4bf36d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-ded36f5da8457c743865747f60630f72
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-ded36f5da8457c743865747f60630f72
+      projectPath: Temp\UnityTempFile-ded36f5da8457c743865747f60630f72
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-e0d4ae7637a212b4780a2160fd37179d
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-e0d4ae7637a212b4780a2160fd37179d
+      projectPath: Temp\UnityTempFile-e0d4ae7637a212b4780a2160fd37179d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-e11eb007f8f1bc64aa8b2ceaea0ba9d7
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-e11eb007f8f1bc64aa8b2ceaea0ba9d7
+      projectPath: Temp\UnityTempFile-e11eb007f8f1bc64aa8b2ceaea0ba9d7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-e3d57772748e7d94eb82c58f14135573
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-e3d57772748e7d94eb82c58f14135573
+      projectPath: Temp\UnityTempFile-e3d57772748e7d94eb82c58f14135573
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-e70fe8749aaeb3543a38a036ab7cfe50
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-e70fe8749aaeb3543a38a036ab7cfe50
+      projectPath: Temp\UnityTempFile-e70fe8749aaeb3543a38a036ab7cfe50
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-e88abd69043e27e438217c184885074a
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-e88abd69043e27e438217c184885074a
+      projectPath: Temp\UnityTempFile-e88abd69043e27e438217c184885074a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-ec0e7d35c77caa147a281945f166b53e
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-ec0e7d35c77caa147a281945f166b53e
+      projectPath: Temp\UnityTempFile-ec0e7d35c77caa147a281945f166b53e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-ec1cb86fcb536454abdc9288efe745cc
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-ec1cb86fcb536454abdc9288efe745cc
+      projectPath: Temp\UnityTempFile-ec1cb86fcb536454abdc9288efe745cc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-ed401891afb4aae49b3aa1cffad3ef77
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-ed401891afb4aae49b3aa1cffad3ef77
+      projectPath: Temp\UnityTempFile-ed401891afb4aae49b3aa1cffad3ef77
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-efe80530b674ace4eb33cfa0848e766c
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-efe80530b674ace4eb33cfa0848e766c
+      projectPath: Temp\UnityTempFile-efe80530b674ace4eb33cfa0848e766c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f00d6918ccb86654cafebcc5aa347f22
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-f00d6918ccb86654cafebcc5aa347f22
+      projectPath: Temp\UnityTempFile-f00d6918ccb86654cafebcc5aa347f22
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f0d4038ac3182764298e087a41692e35
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-f0d4038ac3182764298e087a41692e35
+      projectPath: Temp\UnityTempFile-f0d4038ac3182764298e087a41692e35
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f39c1a89b99323f47b54bc7b13232451
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-f39c1a89b99323f47b54bc7b13232451
+      projectPath: Temp\UnityTempFile-f39c1a89b99323f47b54bc7b13232451
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f47992abc03d02c4180dd7b416bc2fa5
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-f47992abc03d02c4180dd7b416bc2fa5
+      projectPath: Temp\UnityTempFile-f47992abc03d02c4180dd7b416bc2fa5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f4e54e3074e4223438595720250af3f6
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-f4e54e3074e4223438595720250af3f6
+      projectPath: Temp\UnityTempFile-f4e54e3074e4223438595720250af3f6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f65f9f04d7dcb90489aba9bf1b050858
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-f65f9f04d7dcb90489aba9bf1b050858
+      projectPath: Temp\UnityTempFile-f65f9f04d7dcb90489aba9bf1b050858
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f94901eb7e713284d8d4e56f1fb39cf5
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-f94901eb7e713284d8d4e56f1fb39cf5
+      projectPath: Temp\UnityTempFile-f94901eb7e713284d8d4e56f1fb39cf5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-f9ed81d8cf9223f4aaba6d0a9ee4ec22
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-f9ed81d8cf9223f4aaba6d0a9ee4ec22
+      projectPath: Temp\UnityTempFile-f9ed81d8cf9223f4aaba6d0a9ee4ec22
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-fa1e3b2d0e1121c4da87cf1e8aee5458
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-fa1e3b2d0e1121c4da87cf1e8aee5458
+      projectPath: Temp\UnityTempFile-fa1e3b2d0e1121c4da87cf1e8aee5458
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-fa9ef841ea8b0134a997ba229283996a
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-fa9ef841ea8b0134a997ba229283996a
+      projectPath: Temp\UnityTempFile-fa9ef841ea8b0134a997ba229283996a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-faf9e8e0fcc42df408d81ad850cbc1cd
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-faf9e8e0fcc42df408d81ad850cbc1cd
+      projectPath: Temp\UnityTempFile-faf9e8e0fcc42df408d81ad850cbc1cd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\UnityTempFile-fd378b2f7bb7bd741aa725336e4b584d
+      fullPath: C:\Fake Pictochat\Temp\UnityTempFile-fd378b2f7bb7bd741aa725336e4b584d
+      projectPath: Temp\UnityTempFile-fd378b2f7bb7bd741aa725336e4b584d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\__Backupscenes\0.backup
+      fullPath: C:\Fake Pictochat\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Temp\tempFile.res
+      fullPath: C:\Fake Pictochat\Temp\tempFile.res
+      projectPath: Temp\tempFile.res
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\tempFile.resG
+      fullPath: C:\Fake Pictochat\Temp\tempFile.resG
+      projectPath: Temp\tempFile.resG
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\tempFile.resS
+      fullPath: C:\Fake Pictochat\Temp\tempFile.resS
+      projectPath: Temp\tempFile.resS
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 08ca4b10810dab69a438bd5515f6e5365fe030e6
     mergeA: 
     mergeB: 

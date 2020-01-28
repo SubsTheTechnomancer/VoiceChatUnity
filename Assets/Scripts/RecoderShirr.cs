@@ -1,26 +1,22 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Photon.Pun;
 using Photon.Voice.Unity;
 using Photon.Voice.PUN;
+using UnityEngine.SceneManagement;
 
-public class RecoderShirr : MonoBehaviour
+public class RecoderShirr : MonoBehaviourPunCallbacks
 {
     
     [SerializeField]
     private GameObject _player;
-
-    [SerializeField]
-    private Recorder recorder;
     private PhotonVoiceView voiceView;
 
-
-    private void Awake(){
-
-        GameObject player = Instantiate(_player);
+    void Start()
+    {
+        GameObject player = PhotonNetwork.Instantiate(_player.name,Vector3.zero,Quaternion.identity);
         voiceView = player.GetComponent<PhotonVoiceView>();
-        voiceView.RecorderInUse = recorder;
-
     }
 
 }

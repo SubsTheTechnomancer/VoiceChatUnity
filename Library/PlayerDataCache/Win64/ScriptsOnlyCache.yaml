@@ -25,13 +25,10 @@ ScriptsOnlyBuild:
     - TestConnect
     GitHub.Unity.45.dll:
     - GitHub.Unity.ApplicationCache
-    - GitHub.Unity.BranchesCache
     - GitHub.Unity.EnvironmentCache
     - GitHub.Unity.GitAheadBehindCache
     - GitHub.Unity.GitLocksCache
-    - GitHub.Unity.GitLogCache
     - GitHub.Unity.GitStatusCache
-    - GitHub.Unity.GitUserCache
     - GitHub.Unity.RepositoryInfoCache
     PhotonUnityNetworking.Demos.dll:
     - Photon.Pun.Demo.Asteroids.Asteroid
@@ -317,6 +314,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10600}
     - Class: 114
+      Script: {instanceID: 11074}
+    - Class: 114
       Script: {instanceID: 11242}
     - Class: 114
       Script: {instanceID: 11504}
@@ -427,7 +426,7 @@ ScriptsOnlyBuild:
     className: GraphicToggleIsOnTransition
   - hash:
       serializedVersion: 2
-      Hash: 6bc91ec5fc45923c6b55a2afe93f580c
+      Hash: 95074457c11ea533b8247aab6901dcc6
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: RecoderShirr
